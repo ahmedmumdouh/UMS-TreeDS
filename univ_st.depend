@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1463829024 source:c:\users\ad.xman\desktop\embedded c\univ_st\univ_st\main.cpp
+	<iostream>
+	<string>
+	<windows.h>
+	"classes.h"
+
+1463831295 c:\users\ad.xman\desktop\embedded c\univ_st\univ_st\classes.h
+	<iostream>
+	<string>
+
+1463829718 source:c:\users\ad.xman\desktop\embedded c\univ_st\univ_st\classes.cpp
+	"classes.h"
+
+1463831295 source:c:\users\ad.xman\desktop\embedded c\univ_st\univ_st\univ_st\classes.cpp
+	"classes.h"
+
+1463876604 c:\users\ad.xman\desktop\embedded c\univ_st\univ_st\univ_st\classes.h
+	<iostream>
+	<string>
+
